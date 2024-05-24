@@ -1,6 +1,6 @@
 export const ProjectsList = [
   {
-    img: "../src/assets/agriconnect.jpg",
+    img: "/agriconnect.jpg",
     title: "AgriConnect",
     description:
       "A platform for farmers to network and increase their revenue.",
@@ -9,7 +9,7 @@ export const ProjectsList = [
     demo_url: "",
   },
   {
-    img: "../src/assets/ecofriends.png",
+    img: "/ecofriends.png",
     title: "Eco-friends",
     description:
       "A full-stack application for people interested in enviroment to engage and network.",
@@ -18,7 +18,7 @@ export const ProjectsList = [
     demo_url: "https://ecofriends-beta.vercel.app/",
   },
   {
-    img: "../src/assets/messagingapp.jpg",
+    img: "/messagingapp.jpg",
     title: "Realtime Messaging Web application",
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
@@ -27,16 +27,7 @@ export const ProjectsList = [
     demo_url: "",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "../src/assets/datingsite.jpg",
+    img: "/datingsite.jpg",
     title: "Dating Site",
     description: "A platform for college students.",
     tech_stack: ["React", "ExpressJS", "Firebase", "MongoDB"],
