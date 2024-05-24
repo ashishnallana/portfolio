@@ -1,6 +1,6 @@
 export const ProjectsList = [
   {
-    img: "https://ashishnallana.github.io/portfolio/agriconnect.jpg",
+    img: "https://ashishnallana.github.io/portfolio/src/assets/agriconnect.jpg",
     title: "AgriConnect",
     description:
       "A platform for farmers to network and increase their revenue.",
@@ -9,7 +9,7 @@ export const ProjectsList = [
     demo_url: "",
   },
   {
-    img: "https://ashishnallana.github.io/portfolio/ecofriends.png",
+    img: "https://ashishnallana.github.io/portfolio/src/assets/ecofriends.png",
     title: "Eco-friends",
     description:
       "A full-stack application for people interested in enviroment to engage and network.",
@@ -18,7 +18,7 @@ export const ProjectsList = [
     demo_url: "https://ecofriends-beta.vercel.app/",
   },
   {
-    img: "https://ashishnallana.github.io/portfolio/messagingapp.jpg",
+    img: "https://ashishnallana.github.io/portfolio/src/assets/messagingapp.jpg",
     title: "Realtime Messaging Web application",
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
@@ -27,7 +27,7 @@ export const ProjectsList = [
     demo_url: "",
   },
   {
-    img: "https://ashishnallana.github.io/portfolio/datingsite.jpg",
+    img: "https://ashishnallana.github.io/portfolio/src/assets/datingsite.jpg",
     title: "Dating Site",
     description: "A platform for college students.",
     tech_stack: ["React", "ExpressJS", "Firebase", "MongoDB"],
