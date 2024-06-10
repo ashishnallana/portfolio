@@ -26,12 +26,4 @@ export const ProjectsList = [
     github_url: "https://github.com/ashishnallana/whatsapp_clone_server",
     demo_url: "",
   },
-  {
-    img: "https://ashishnallana.github.io/portfolio/datingsite.jpg",
-    title: "Dating Site",
-    description: "A platform for college students.",
-    tech_stack: ["React", "ExpressJS", "Firebase", "MongoDB"],
-    github_url: "",
-    demo_url: "",
-  },
 ];
